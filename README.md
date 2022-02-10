@@ -4,6 +4,8 @@
 - ♥️ In love with Python 
 - 📖 Go lang apprentice
 
+nire.it.dev at gmail.com
+
 
 <!--
 **nireitdev/nireitdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
