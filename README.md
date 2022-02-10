@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Delphi language is my mother thong
+- 😄 Delphi is my first language
 - ♥️ In love with Python 
 - 📖 Go lang apprentice
 
