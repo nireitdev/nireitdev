@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 😄 Delphi language is my mother thong
+- ♥️ In love with Python 
+- 📖 Go lang apprentice
+
+
 <!--
 **nireitdev/nireitdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
